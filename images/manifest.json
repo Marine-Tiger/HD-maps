@@ -6,6 +6,63 @@
   "type" : "Manifest",
   "@context" : "http://iiif.io/api/presentation/3/context.json",
   "items" : [ {
+    "width" : 4032,
+    "id" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e/canvas/",
+    "label" : {
+      "none" : [ "F31-96-59_plan_19e" ]
+    },
+    "type" : "Canvas",
+    "items" : [ {
+      "id" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e/AnnoPage/",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "motivation" : "Painting",
+        "id" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e/annotation/",
+        "type" : "Annotation",
+        "body" : {
+          "service" : [ {
+            "tiles" : [ {
+              "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+              "width" : 1024,
+              "height" : 1024
+            } ],
+            "protocol" : "http://iiif.io/api/image",
+            "sizes" : [ {
+              "width" : 126,
+              "height" : 80
+            }, {
+              "width" : 252,
+              "height" : 159
+            }, {
+              "width" : 504,
+              "height" : 317
+            }, {
+              "width" : 1008,
+              "height" : 633
+            }, {
+              "width" : 2016,
+              "height" : 1265
+            }, {
+              "width" : 4032,
+              "height" : 2529
+            } ],
+            "profile" : "http://iiif.io/api/image/2/level0.json",
+            "width" : 4032,
+            "@id" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e",
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "height" : 2529
+          } ],
+          "format" : "image/jpeg",
+          "width" : 4032,
+          "id" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e/full/full/0/default.jpg",
+          "type" : "Image",
+          "height" : 2529
+        },
+        "target" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e/canvas/"
+      } ]
+    } ],
+    "height" : 2529
+  }, {
     "width" : 2101,
     "id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN36_plan_1697/canvas/",
     "label" : {
