@@ -1,0 +1,32 @@
+{
+  "tiles" : [ {
+    "scaleFactors" : [ 32, 16, 8, 4, 2, 1 ],
+    "width" : 1024,
+    "height" : 1024
+  } ],
+  "protocol" : "http://iiif.io/api/image",
+  "sizes" : [ {
+    "width" : 66,
+    "height" : 37
+  }, {
+    "width" : 132,
+    "height" : 74
+  }, {
+    "width" : 263,
+    "height" : 148
+  }, {
+    "width" : 526,
+    "height" : 295
+  }, {
+    "width" : 1051,
+    "height" : 589
+  }, {
+    "width" : 2101,
+    "height" : 1178
+  } ],
+  "profile" : "http://iiif.io/api/image/2/level0.json",
+  "width" : 2101,
+  "@id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN49_plan_1748_png_2",
+  "@context" : "http://iiif.io/api/image/2/context.json",
+  "height" : 1178
+}
