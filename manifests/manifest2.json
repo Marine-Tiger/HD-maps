@@ -1,0 +1,217 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json",
+  "@type" : "sc:Manifest",
+  "label" : "Transformations of the Hôtel-Dieu Hospital in Paris",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "Four plans and drawings of the Hôtel-Dieu Hospital between the 17th and the 19th centuries",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "CDN/36, CDN/49 and CDN/85 images are from the Assistance Publique et Hôpitaux de Paris archives, F31/96/59 image is from the Archives de Paris",
+  "sequences" : [ {
+    "@id" : "http://51aff979-c5d1-41c0-821d-eb62f8ca75af",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "viewingDirection" : "left-to-right",
+    "viewingHint" : "paged",
+    "canvases" : [ {
+      "@id" : "http://5c1d4d80-c1ca-4eea-a445-026f26cb04d5",
+      "@type" : "sc:Canvas",
+      "label" : "Map of the Hôtel-Dieu in 1697",
+      "height" : 1235,
+      "width" : 2101,
+      "metadata" : [ {
+        "label" : "Repository",
+        "value" : "Assistance Publique et Hôpitaux de Paris Archives"
+      }, {
+        "label" : "Shelf mark",
+        "value" : "CDN/36"
+      }, {
+        "label" : "Title",
+        "value" : "Hôtel-Dieu and its surrondings areas"
+      }, {
+        "label" : "Author",
+        "value" : "Charles Tournant, called Saint-Germain"
+      }, {
+        "label" : "Date",
+        "value" : "1697"
+      }, {
+        "label" : "Size",
+        "value" : "502x628cm"
+      }, {
+        "label" : "Type",
+        "value" : "Plan"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://a6cea3cc-37c5-4a4e-8171-605f1aafaa8d",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN36_plan_1697_png/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN36_plan_1697_png",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1235,
+          "width" : 2101
+        },
+        "on" : "http://5c1d4d80-c1ca-4eea-a445-026f26cb04d5"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://2dd9f4c1-30b9-434e-9826-688ada31367c",
+      "@type" : "sc:Canvas",
+      "label" : "Plans and drawings in 1748",
+      "height" : 1178,
+      "width" : 2101,
+      "metadata" : [ {
+        "label" : "Repository",
+        "value" : "Assistance Publique et Hôpitaux de Paris Archives"
+      }, {
+        "label" : "Shelf mark",
+        "value" : "CDN/49"
+      }, {
+        "label" : "Title",
+        "value" : "Profile drawing or section of the new Hôtel-Dieu’s building between the river and a street named rue de la Bûcherie"
+      }, {
+        "label" : "Author",
+        "value" : "M. D'Ailly"
+      }, {
+        "label" : "Date",
+        "value" : "1748"
+      }, {
+        "label" : "Size",
+        "value" : "220x570cm"
+      }, {
+        "label" : "Type",
+        "value" : "Plan"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://c55a58bf-fb3d-4946-a9cf-0ba84d8ea1e5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN49_plan_1748_png_2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN49_plan_1748_png_2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1178,
+          "width" : 2101
+        },
+        "on" : "http://2dd9f4c1-30b9-434e-9826-688ada31367c"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://9c15d85c-90c7-4cfc-a483-ba71ccd7d837",
+      "@type" : "sc:Canvas",
+      "label" : "Plan of an expansion project",
+      "height" : 1178,
+      "width" : 2101,
+      "metadata" : [ {
+        "label" : "Repository",
+        "value" : "Assistance Publique et Hôpitaux de Paris Archives"
+      }, {
+        "label" : "Shelf mark",
+        "value" : "CDN/85"
+      }, {
+        "label" : "Title",
+        "value" : "Administration's project to extend and to decorate the Hôtel-Dieu"
+      }, {
+        "label" : "Author",
+        "value" : "Unknown"
+      }, {
+        "label" : "Date",
+        "value" : "1750"
+      }, {
+        "label" : "Size",
+        "value" : "465x490cm"
+      }, {
+        "label" : "Type",
+        "value" : "Plan"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://cd744dc0-2e75-46c9-93d0-41cb7e73dd5b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN85_plan_1750_png/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Marine-Tiger.github.io/HD-maps/images/CDN85_plan_1750_png",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 1178,
+          "width" : 2101
+        },
+        "on" : "http://9c15d85c-90c7-4cfc-a483-ba71ccd7d837"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d",
+      "@type" : "sc:Canvas",
+      "label" : "Cadastre plan, approximately in 1810-1836",
+      "height" : 2529,
+      "width" : 4032,
+      "metadata" : [ {
+        "label" : "Repository",
+        "value" : "National Archives of France"
+      }, {
+        "label" : "Shelf mark",
+        "value" : "F/31/90/19"
+      }, {
+        "label" : "Title",
+        "value" : "Cadastre plans of the 9th arrondissement, Cité and île Saint-Louis "
+      }, {
+        "label" : "Author",
+        "value" : "Direction in charge of the directs contributions of the Seine's departement"
+      }, {
+        "label" : "Date",
+        "value" : "1810-1936"
+      }, {
+        "label" : "Size",
+        "value" : "Unknown"
+      }, {
+        "label" : "Type",
+        "value" : "Atlas, plan"
+      } ],
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://910d7fc3-6f7f-4e72-9320-f21fa7d6ded6",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://Marine-Tiger.github.io/HD-maps/images/F31-96-59_plan_19e",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 2529,
+          "width" : 4032
+        },
+        "on" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
