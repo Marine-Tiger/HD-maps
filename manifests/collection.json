@@ -1,0 +1,13 @@
+{
+  "id" : "https://Marine-Tiger.github.io/HD-maps/manifests/collection.json",
+  "label" : {
+    "en" : [ "All manifests loaded in Marine-Tiger/HD-maps project" ]
+  },
+  "type" : "Collection",
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "items" : [ {
+    "@type" : "sc:Manifest",
+    "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json",
+    "label" : "Transformations of the Hôtel-Dieu Hospital in Paris"
+  } ]
+}
