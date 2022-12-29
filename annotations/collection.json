@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://Marine-Tiger.github.io/HD-maps/annotations/CND36_1697.json" ],
+  "@id" : "https://Marine-Tiger.github.io/HD-maps/annotations/collection.json",
+  "label" : "All annotations loaded in Marine-Tiger/HD-maps project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
