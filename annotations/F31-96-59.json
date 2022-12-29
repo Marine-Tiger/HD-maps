@@ -1,0 +1,360 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Parvis de Notre Dame",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Parvis de Notre Dame</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T19:40:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672342815536",
+    "dcterms:modified" : "2022-12-29T19:40:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1991,237,517,142"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1991.18376,272.97859l31.5843,106.03301l485.0446,-42.86441l-27.07226,-99.26494z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_a8084c15-6729-49b1-bfa5-3874632549ee\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Petit Pont",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Petit Pont</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Petit Pont",
+      "@type" : "oa:Tag",
+      "chars" : "Petit Pont"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-12-29T19:38:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672342738993",
+    "dcterms:modified" : "2022-12-29T21:17:16",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=561,1076,293,607"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M560.86619,1114.47458l148.89741,-38.35236l144.38537,566.26137l-139.87333,40.60839z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_b83e03f9-807e-4412-856c-f0bb471777a9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"14.59038\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rue du March&eacute;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Rue du March&eacute;</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T19:39:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672342760883",
+    "dcterms:modified" : "2022-12-29T19:39:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=471,476,219,544"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M617.26673,1019.72168l72.19269,-36.09634l-135.36128,-464.74041l-18.04817,-20.30419l-13.53613,-22.56021l-51.88849,24.81624z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_6c74c878-0fe1-47ff-a87f-47d9647a689b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "H&ocirc;tel-Dieu's Hospital\n<img src=\"https://gallica.bnf.fr/ark:/12148/btv1b10303045d/f1.highres\" alt=\"Drawing of the fire of the H&ocirc;tel-Dieu, 1772.\" width=\"1392\" height=\"1054\" />",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>H&ocirc;tel-Dieu's Hospital</p>\n<p><img src=\"https://gallica.bnf.fr/ark:/12148/btv1b10303045d/f1.highres\" alt=\"Drawing of the fire of the H&ocirc;tel-Dieu, 1772.\" width=\"1392\" height=\"1054\" /></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hôtel-Dieu",
+      "@type" : "oa:Tag",
+      "chars" : "Hôtel-Dieu"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Hôtel-Dieu's fire",
+      "@type" : "oa:Tag",
+      "chars" : "The Hôtel-Dieu's fire"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-12-29T19:10:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672341017331",
+    "dcterms:modified" : "2022-12-29T21:17:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=678,444,2633,1678"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2034.04817,554.98127l11.28011,223.34612l-855.03211,-60.91258l-15.79215,2.25602l-496.32471,38.35236l58.65656,245.90633l460.22837,-27.07226l974.60125,67.68064l15.79215,74.44871l-58.65656,4.51204l-31.5843,491.81267l-42.86441,-2.25602l-15.79215,85.72881l-351.93934,-24.81624l6.76806,-81.21677l-146.64139,-11.28011l-9.02409,83.47279l-356.45138,-15.79215l-22.56021,367.73149l78.96075,4.51204l-4.51204,101.52096l773.81534,-63.1686l4.51204,-29.32828l629.42997,31.5843l2.25602,38.35236l439.92417,20.30419l151.15343,-18.04817v-83.47279h33.84032l2.25602,-250.41838l-600.10169,-36.09634v-83.47279l-146.64139,-9.02409l-9.02409,83.47279l-97.00892,-11.28011l33.84032,-566.26137l798.63158,54.14451l60.91258,-11.28011l-31.5843,-184.99376l-56.40054,2.25602l-29.32828,-119.56913l22.56021,-164.68956l-24.81624,-153.40946l-54.14451,-124.08118l-394.80375,33.84032l2.25602,20.30419l-302.30687,36.09634l-2.25602,-20.30419z\" data-paper-data=\"{&quot;strokeWidth&quot;:3,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_2e670ce7-ff7a-406f-a4a6-c1b194a64c2e\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"19.45385\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Quai de l'Archevech&eacute;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Quai de l'Archevech&eacute;</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T19:41:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672342864022",
+    "dcterms:modified" : "2022-12-29T19:41:04",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3412,897,389,211"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3412.22658,1022.60437l25.0669,85.22748l363.47012,-105.281l-15.04014,-105.281z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_9a1c17ae-f9eb-47e5-b3ce-3f10338ff01f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rue de la Bucherie",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Rue de la Bucherie</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rue de la Bûcherie",
+      "@type" : "oa:Tag",
+      "chars" : "Rue de la Bûcherie"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-12-29T19:40:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672342840533",
+    "dcterms:modified" : "2022-12-29T21:18:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1146,2133,1878,188"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1146.17841,2220.80241l25.0669,95.25424l721.92685,-72.69402l468.75112,17.54683l651.73952,60.16057l10.02676,-112.80107l-654.24621,-67.68064l-491.31133,-7.52007z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_40e66822-25a3-40fe-b0e3-0ebf7220c3f9\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"14.59038\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Rue Neuve Notre Dame",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Rue Neuve Notre Dame</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T19:39:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672342794359",
+    "dcterms:modified" : "2022-12-29T19:39:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=529,106,1058,241"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M529.28189,306.81891l20.30419,40.60839l518.88492,-76.70473l518.88492,-99.26494l-33.84032,-65.42462l-408.33988,92.49688l-214.32203,42.86441z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_1d7b180d-91db-4c0e-8be9-6a5f3e67001f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "R du March&eacute; Neuf",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>R du March&eacute; Neuf</em></p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2022-12-29T19:41:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672342885364",
+    "dcterms:modified" : "2022-12-29T19:41:25",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=78,351,381,198"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M78.32828,481.15923l10.02676,67.68064l370.99019,-110.29438l-32.58698,-87.73417z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;annotation&quot;:null}\" id=\"rough_path_fa677f7b-19dc-447d-a7f3-7bad4b2ac642\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pont aux doubles",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Pont aux doubles</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pont au Double",
+      "@type" : "oa:Tag",
+      "chars" : "Pont au Double"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-12-29T19:11:22",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672341082852",
+    "dcterms:modified" : "2022-12-29T21:17:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3065,1189,266,575"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3078.58608,1737.13649l-13.53613,-545.95718l182.73773,11.28011l63.1686,-13.53613l20.30419,575.28546l-252.6744,-13.53613l-2.25602,-15.79215z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_40e2f68b-44fd-4ccf-8e55-f14c20b6b389\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"14.59038\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pont st Charles",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p><em>Pont st Charles</em></p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Pont Saint Charles",
+      "@type" : "oa:Tag",
+      "chars" : "Pont Saint Charles"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/120460845",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2022-12-29T19:12:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1672341156857",
+    "dcterms:modified" : "2022-12-29T21:18:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2217,1128,102,582"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2255.13827,1134.77877l-38.35236,573.02944l72.19269,2.25602l29.32828,-582.05352z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;annotation&quot;:null,&quot;editable&quot;:true}\" id=\"rough_path_3300524c-78c4-4a62-9b15-a7a7026ff55a\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ffff00\" stroke-width=\"14.59038\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+    } ]
+  } ],
+  "@id" : "https://Marine-Tiger.github.io/HD-maps/annotations/F31-96-59.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
