@@ -3,13 +3,18 @@
   "@id" : "https://Marine-Tiger.github.io/HD-maps/manifests/manifest2.json",
   "@type" : "sc:Manifest",
   "label" : "Transformations of the Hôtel-Dieu Hospital in Paris",
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/120460845/3cd9bc82c8fae36646c9fcb21bbf2725/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  },
   "metadata" : [ ],
   "description" : [ {
     "@value" : "Four plans and drawings of the Hôtel-Dieu Hospital between the 17th and the 19th centuries",
     "@language" : "en"
   } ],
   "license" : "https://creativecommons.org/licenses/by/3.0/",
-  "attribution" : "CDN/36, CDN/49 and CDN/85 images are from the Assistance Publique et Hôpitaux de Paris archives, F31/96/59 image is from the Archives de Paris",
+  "attribution" : "CND/36, CND/49 and CND/85 images are from the Assistance Publique et Hôpitaux de Paris archives, F31/96/59 image is from the Archives de Paris",
   "sequences" : [ {
     "@id" : "http://51aff979-c5d1-41c0-821d-eb62f8ca75af",
     "@type" : "sc:Sequence",
@@ -30,7 +35,7 @@
         "value" : "Assistance Publique et Hôpitaux de Paris Archives"
       }, {
         "label" : "Shelf mark",
-        "value" : "CDN/36"
+        "value" : "CND/36"
       }, {
         "label" : "Title",
         "value" : "Hôtel-Dieu and its surrondings areas"
@@ -66,6 +71,11 @@
         },
         "on" : "http://5c1d4d80-c1ca-4eea-a445-026f26cb04d5"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://marine-tiger.github.io/HD-maps/annotations/CND36_1697.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for CND/36"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://2dd9f4c1-30b9-434e-9826-688ada31367c",
@@ -78,7 +88,7 @@
         "value" : "Assistance Publique et Hôpitaux de Paris Archives"
       }, {
         "label" : "Shelf mark",
-        "value" : "CDN/49"
+        "value" : "CND/49"
       }, {
         "label" : "Title",
         "value" : "Profile drawing or section of the new Hôtel-Dieu’s building between the river and a street named rue de la Bûcherie"
@@ -114,6 +124,11 @@
         },
         "on" : "http://2dd9f4c1-30b9-434e-9826-688ada31367c"
       } ],
+      "otherContent" : [ {
+        "@id" : "https://marine-tiger.github.io/HD-maps/annotations/CND49_1748.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for CND/49"
+      } ],
       "related" : ""
     }, {
       "@id" : "http://9c15d85c-90c7-4cfc-a483-ba71ccd7d837",
@@ -126,7 +141,7 @@
         "value" : "Assistance Publique et Hôpitaux de Paris Archives"
       }, {
         "label" : "Shelf mark",
-        "value" : "CDN/85"
+        "value" : "CND/85"
       }, {
         "label" : "Title",
         "value" : "Administration's project to extend and to decorate the Hôtel-Dieu"
@@ -161,6 +176,11 @@
           "width" : 2101
         },
         "on" : "http://9c15d85c-90c7-4cfc-a483-ba71ccd7d837"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://marine-tiger.github.io/HD-maps/annotations/CND85_expansion.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for CND/85"
       } ],
       "related" : ""
     }, {
@@ -209,6 +229,11 @@
           "width" : 4032
         },
         "on" : "http://d201b4c0-0185-4acd-9aaf-6d74fed99d4d"
+      } ],
+      "otherContent" : [ {
+        "@id" : "https://marine-tiger.github.io/HD-maps/annotations/F31-96-59.json",
+        "@type" : "sc:AnnotationList",
+        "label" : "Annotations for CND/85"
       } ],
       "related" : ""
     } ]
